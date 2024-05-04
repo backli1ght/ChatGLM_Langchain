@@ -13,7 +13,7 @@ This project involves a localized question-and-answer application built using th
    First, clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/backli1ght/ChatGLM_Langchain.git
    ```
 
 2. **Install Dependencies**  
