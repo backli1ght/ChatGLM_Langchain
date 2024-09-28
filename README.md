@@ -20,7 +20,7 @@ This project involves a localized question-and-answer application built using th
    Navigate to the project directory and install the necessary dependencies:
 
    ```bash
-   cd <project_directory>
+   cd ChatGLM_Langchain
    pip install -r requirements.txt
    ```
 
@@ -41,24 +41,6 @@ This project involves a localized question-and-answer application built using th
    ```bash
    python api.py
    ```
-
-### Running the Application
-
-1. **Navigate to the Scripts Directory**  
-   Depending on the version of the application you want to run, navigate to the appropriate directory under `scripts`:
-
-   ```bash
-   cd ../scripts/<desired_version>
-   ```
-
-2. **Run the Application**  
-   To start the application, execute the relevant script in the `scripts` directory. For example:
-
-   ```bash
-   python <script_name>.py
-   ```
-
-   Replace `<script_name>` with the name of the script you wish to execute.
 
 ## Usage
 
